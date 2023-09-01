@@ -1,7 +1,7 @@
 `timescale 1ns / 1ns  
  module div_structural(  
    input      clk,  
-       input                     reset,  
+       input  reset,  
    input      start,  
    input [31:0]  A,  
    input [31:0]  B,  
@@ -38,9 +38,6 @@
        register reg32_result(result,result_d,1'b1,clr,clk);  
        assign result_d = active==1 ?((sub[32]==0)?{result[30:0], 1'b1}:{result[30:0], 1'b0}):A;  
  endmodule  
- // fpga4student.com FPGA projects, Verilog projects, VHDL projects 
- // Verilog project: Verilog code for 32-bit divider 
- // Verilog code for divider using structural modelling module 
  RegBit(BitOut, BitData, WriteEn,reset, clk);  
  output BitOut; // 1 bit of register  
  input BitData, WriteEn;   
@@ -52,9 +49,6 @@
  or #(50) U3(d, f1, f2);  
  dff DFF0(BitOut, d, reset, clk);  
  endmodule  
- // fpga4student.com FPGA projects, Verilog projects, VHDL projects 
- // Verilog project: Verilog code for 32-bit divider 
- // Verilog code for divider using structural modelling 
  module register_5(RegOut,RegIn,WriteEn,reset,clk);  
  output [4:0] RegOut;  
  input [4:0] RegIn;  
@@ -65,10 +59,6 @@
  RegBit     bit1 (RegOut[1], RegIn[1], WriteEn,reset,clk);       
  RegBit     bit0 (RegOut[0], RegIn[0], WriteEn,reset,clk);       
  endmodule   
- // 32-bit register  
- // fpga4student.com FPGA projects, Verilog projects, VHDL projects 
- // Verilog project: Verilog code for 32-bit divider 
- // Verilog code for divider using structural modelling
  module register(RegOut,RegIn,WriteEn,reset,clk);   
  output [31:0] RegOut;  
  input [31:0] RegIn;  
@@ -106,7 +96,6 @@
  RegBit     bit1 (RegOut[1], RegIn[1], WriteEn,reset,clk);       
  RegBit     bit0 (RegOut[0], RegIn[0], WriteEn,reset,clk);       
  endmodule   
- // fpga4student.com FPGA projects, Verilog projects, VHDL projects 
  module dff (q, d, reset, clk);  
  output q;  
  input d, reset, clk;  
