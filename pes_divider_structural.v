@@ -1,7 +1,4 @@
 `timescale 1ns / 1ns  
- // fpga4student.com FPGA projects, Verilog projects, VHDL projects 
- // Verilog project: Verilog code for 32-bit divider 
- // Verilog code for divider using structural modelling
  module div_structural(  
    input      clk,  
        input                     reset,  
