@@ -8,4 +8,14 @@ Key charecteristics include
 2. **Unsigned division**-It performs division without considering the sign of the numbers. In other words, it treats both the dividend and divisor as positive values.
 3. **Performance**-Division operations can be relatively slow compared to addition and multiplication. Therefore, hardware dividers often employ optimization techniques to improve speed and efficiency.
 
+## Modules used 
+
+1. **D Flip-flop**
+2. **1-bit register**
+3. **5-bit register**
+4. **32-bit register**
+
+## Simulation
+## Synthesis
+## Gate level synthesis
 
