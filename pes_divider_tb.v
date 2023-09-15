@@ -1,5 +1,5 @@
 `timescale 1ns / 1ns  
- module tb_div_structural;  
+ module tb_div_structural();  
       // Inputs  
       reg clock;  
       reg reset;  
@@ -22,7 +22,11 @@
            .R(R),   
            .ok(ok),  
            .err(err)  
-      );  
+      ); 
+      initial begin
+      $dumpfile("counter.vcd");
+      $dumpvars(0,tb_div_structural);
+      end
       initial begin   
             clock = 0;  
             forever #50 clock = ~clock;  
