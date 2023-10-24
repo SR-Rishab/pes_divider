@@ -15,7 +15,24 @@ Key charecteristics include
 3. **5-bit register**
 4. **32-bit register**
 
-## Simulation
 ## Synthesis
-## Gate level synthesis
+<details>
 
+  ![Screenshot from 2023-10-24 12-23-48](https://github.com/SR-Rishab/pes_divider/assets/107171044/17ccb39b-bfe0-4ebb-984d-21d423f196f7)
+
+</details>
+
+## Simulation and GLS
+<details>
+  
+  **Simulation**
+
+  ![Screenshot from 2023-10-24 12-40-39](https://github.com/SR-Rishab/pes_divider/assets/107171044/a202844f-dca5-43c0-ae03-c3d42ad90a94)
+
+  ![Screenshot from 2023-10-24 12-40-12](https://github.com/SR-Rishab/pes_divider/assets/107171044/0221f002-56a5-4f44-b571-eefd5677d931)
+
+  **GLS**
+
+  ![Screenshot from 2023-10-24 12-43-20](https://github.com/SR-Rishab/pes_divider/assets/107171044/4c79184f-4e66-4c50-8161-cdedf8fc1229)
+
+</details>
