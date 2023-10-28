@@ -17,22 +17,27 @@ Key charecteristics include
 
 ## Synthesis
 <details>
-
-  ![Screenshot from 2023-10-24 12-23-48](https://github.com/SR-Rishab/pes_divider/assets/107171044/17ccb39b-bfe0-4ebb-984d-21d423f196f7)
+  
+![Screenshot from 2023-09-15 10-38-02](https://github.com/SR-Rishab/pes_divider/assets/107171044/36b29301-41a2-4594-a051-8e1cda28a8b4)
+![Screenshot from 2023-09-15 10-37-46](https://github.com/SR-Rishab/pes_divider/assets/107171044/277b6601-66fc-467d-8caa-3222732a377f)
+![Screenshot from 2023-09-15 10-37-35](https://github.com/SR-Rishab/pes_divider/assets/107171044/e71d2e40-c1bd-4234-8fc0-e26ab3345b0d)
+![Screenshot from 2023-09-15 10-37-06](https://github.com/SR-Rishab/pes_divider/assets/107171044/92a35b4f-7947-48fc-9ded-a38e438240f1)
+![Screenshot from 2023-09-15 10-36-52](https://github.com/SR-Rishab/pes_divider/assets/107171044/687e90d6-3160-49a2-8130-9f12018bcdab)
 
 </details>
 
 ## Simulation and GLS
 <details>
   
-  **Simulation**
+  **Pre-synthesis simulation**
 
   ![Screenshot from 2023-10-24 12-40-39](https://github.com/SR-Rishab/pes_divider/assets/107171044/a202844f-dca5-43c0-ae03-c3d42ad90a94)
 
   ![Screenshot from 2023-10-24 12-40-12](https://github.com/SR-Rishab/pes_divider/assets/107171044/0221f002-56a5-4f44-b571-eefd5677d931)
 
-  **GLS**
+  **Post synthesis simulation**
 
   ![Screenshot from 2023-10-24 12-43-20](https://github.com/SR-Rishab/pes_divider/assets/107171044/4c79184f-4e66-4c50-8161-cdedf8fc1229)
 
+Pre and Post simulation waveforms match 
 </details>
