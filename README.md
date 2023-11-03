@@ -41,3 +41,61 @@ Key charecteristics include
 
 Pre and Post simulation waveforms match 
 </details>
+
+Physical design
+
+<details>
+  <summary>Automated design flow</summary>
+  
+  ![automated_1](https://github.com/SR-Rishab/pes_divider/assets/107171044/37a0d9a6-5c60-4050-b9eb-8fe7ef997151)
+![automated_2](https://github.com/SR-Rishab/pes_divider/assets/107171044/9097972d-780e-4a7e-9189-884210adfdd2)
+![automated_3](https://github.com/SR-Rishab/pes_divider/assets/107171044/4243e7ba-aab8-4bfc-b8f7-942620beccc5)
+![automated_4](https://github.com/SR-Rishab/pes_divider/assets/107171044/3d7c9454-8579-4e9a-80a1-bf814d868d6e)
+![automated_5](https://github.com/SR-Rishab/pes_divider/assets/107171044/dc82f502-28d0-42d6-a782-4f9db63f34b5)
+![automated_6](https://github.com/SR-Rishab/pes_divider/assets/107171044/062c42fb-5c3e-4571-bd36-09d25396b4eb)
+
+</details>
+<destail>
+  <summary>Interactive design flow</summary>
+<details>
+  <summary>Adding design</summary>
+  
+  ![Design_init](https://github.com/SR-Rishab/pes_divider/assets/107171044/83506332-61e7-4ca8-aab6-a67d428cc2bb)
+
+</details>
+<details>
+  <summary>Preping design</summary>
+  
+  ![design_prep](https://github.com/SR-Rishab/pes_divider/assets/107171044/8993f11e-702b-4e13-bfe2-aa9fc240e141)
+
+</details>
+<details>
+  <summary>Synthesis</summary>
+  
+  ![run_synthesis](https://github.com/SR-Rishab/pes_divider/assets/107171044/a4b096f3-0cf9-452a-8419-1f4ea890c1de)
+
+</details>
+<details>
+  <summary>Floorplan</summary>
+  
+  ![floorplan_2](https://github.com/SR-Rishab/pes_divider/assets/107171044/f6ed4e3b-9cd8-4f20-b2b4-d4d356d7db20)
+![floorplan_1](https://github.com/SR-Rishab/pes_divider/assets/107171044/fe36df97-20c1-4f80-aadd-316767aba2e7)
+</details>
+<details>
+  <summary>Placement</summary>
+  
+  ![run_placement](https://github.com/SR-Rishab/pes_divider/assets/107171044/eab35666-45a3-410d-abb5-8b13e7d55572)
+</details>
+<details>
+  <summary>Clock tree synthesis</summary>
+  
+  ![run_cts](https://github.com/SR-Rishab/pes_divider/assets/107171044/0290098e-34a2-497a-863e-9b841762e221)
+
+</details>
+<details>
+  
+  ![run_routing](https://github.com/SR-Rishab/pes_divider/assets/107171044/4302ea8c-b059-4eec-b4a7-325a7570167a)
+<summary>Routing</summary>
+  
+</details>
+</destail>
