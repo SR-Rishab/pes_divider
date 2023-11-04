@@ -74,7 +74,7 @@ Pre and Post simulation waveforms match
   
   ![run_synthesis](https://github.com/SR-Rishab/pes_divider/assets/107171044/a4b096f3-0cf9-452a-8419-1f4ea890c1de)
 
-The synthesis remport can be found in the [results] folder
+The synthesis report can be found [here](results/1-synthesis.AREA_0.stat.rpt)
 </details>
 <details>
   <summary>Floorplan</summary>
@@ -92,13 +92,25 @@ The synthesis remport can be found in the [results] folder
   
   ![run_cts](https://github.com/SR-Rishab/pes_divider/assets/107171044/0290098e-34a2-497a-863e-9b841762e221)
 
-The static timing analysis log file can be found here
+The static timing analysis log file can be found [here](results/13-cts_sta.log)
 </details>
 <details>
   
   ![run_routing](https://github.com/SR-Rishab/pes_divider/assets/107171044/4302ea8c-b059-4eec-b4a7-325a7570167a)
 <summary>Routing</summary>
 
-  The 
+**Clock skew**
+
+![skew](https://github.com/SR-Rishab/pes_divider/assets/107171044/dc53d3ac-aa4c-418d-b3c4-78661b1d5b5f)
+
+**Power report**
+
+![Power](https://github.com/SR-Rishab/pes_divider/assets/107171044/080ea094-878b-45ae-8998-82d553ac68f0)
+
+**Summary**
+
+![Summary](https://github.com/SR-Rishab/pes_divider/assets/107171044/ebc42043-975b-49be-bd48-5d9a0b186db8)
+
+  The final report can be found [here](results/20-grt_sta.log)
 </details>
 </destail>
