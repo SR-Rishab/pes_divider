@@ -40,14 +40,14 @@ Key charecteristics include
   ![Screenshot from 2023-10-24 12-43-20](https://github.com/SR-Rishab/pes_divider/assets/107171044/4c79184f-4e66-4c50-8161-cdedf8fc1229)
 
 Pre and Post simulation waveforms match 
+
 </details>
 
-Physical design
-
+## Physical design
 <details>
   <summary>Automated design flow</summary>
   
-  ![automated_1](https://github.com/SR-Rishab/pes_divider/assets/107171044/37a0d9a6-5c60-4050-b9eb-8fe7ef997151)
+![automated_1](https://github.com/SR-Rishab/pes_divider/assets/107171044/37a0d9a6-5c60-4050-b9eb-8fe7ef997151)
 ![automated_2](https://github.com/SR-Rishab/pes_divider/assets/107171044/9097972d-780e-4a7e-9189-884210adfdd2)
 ![automated_3](https://github.com/SR-Rishab/pes_divider/assets/107171044/4243e7ba-aab8-4bfc-b8f7-942620beccc5)
 ![automated_4](https://github.com/SR-Rishab/pes_divider/assets/107171044/3d7c9454-8579-4e9a-80a1-bf814d868d6e)
@@ -74,12 +74,13 @@ Physical design
   
   ![run_synthesis](https://github.com/SR-Rishab/pes_divider/assets/107171044/a4b096f3-0cf9-452a-8419-1f4ea890c1de)
 
+The synthesis remport can be found in the [results] folder
 </details>
 <details>
   <summary>Floorplan</summary>
-  
+
+  ![floorplan_1](https://github.com/SR-Rishab/pes_divider/assets/107171044/fe36df97-20c1-4f80-aadd-316767aba2e7)
   ![floorplan_2](https://github.com/SR-Rishab/pes_divider/assets/107171044/f6ed4e3b-9cd8-4f20-b2b4-d4d356d7db20)
-![floorplan_1](https://github.com/SR-Rishab/pes_divider/assets/107171044/fe36df97-20c1-4f80-aadd-316767aba2e7)
 </details>
 <details>
   <summary>Placement</summary>
@@ -91,11 +92,13 @@ Physical design
   
   ![run_cts](https://github.com/SR-Rishab/pes_divider/assets/107171044/0290098e-34a2-497a-863e-9b841762e221)
 
+The static timing analysis log file can be found here
 </details>
 <details>
   
   ![run_routing](https://github.com/SR-Rishab/pes_divider/assets/107171044/4302ea8c-b059-4eec-b4a7-325a7570167a)
 <summary>Routing</summary>
-  
+
+  The 
 </details>
 </destail>
